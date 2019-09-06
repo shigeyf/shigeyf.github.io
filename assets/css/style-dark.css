@@ -1,0 +1,20 @@
+/*
+ * Dark theme
+ */
+
+body.dark {
+  background: #333333;
+}
+body.dark header {
+  background: #333333;
+}
+body.dark header .slider-content {
+  color: #cccccc;
+}
+body.dark header nav.nav-menu ul.menu-list li a {
+  color: #cccccc;
+}
+body.dark header nav.nav-menu ul.menu-list li a.active,
+body.dark header nav.nav-menu ul.menu-list li a:hover {
+  color: #ccb78d;
+}
