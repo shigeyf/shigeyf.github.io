@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>To Be Honest</title>
+    <link>https://shigeyf.netlify.app/ja/</link>
+    <description>Recent content on To Be Honest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://shigeyf.netlify.app/ja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020年7月の記事一覧</title>
+      <link>https://shigeyf.netlify.app/ja/posts/2020/07/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/ja/posts/2020/07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プロフィール</title>
+      <link>https://shigeyf.netlify.app/ja/about/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/ja/about/</guid>
+      <description>概略 デジタルメディア配信、ネットワークセキュリティ、サーバー仮想化、クラウドインフラストラクチャの領域にて、深い技術およびビジネス経験に基づくエンジニア、また、コンサルタントとして、顧客およびパートナーの技術およびビジネス要件を満たすためのソリューションを提供してきている。
+また、製品開発部門との連携を行い、顧客およびマーケットのビジネスニーズを把握し、将来の製品開発に必要な機能の設計・開発の支援、顧客のシナリオに基づく PoC (Proof of Concept) 活動の支援を提供してきている。
+専門分野  技術エリア  デジタルメディア (オーディオ/ビデオ) コンテンツ ストリーミングおよび配信 コンテンツ保護、デジタル著作権管理 ネットワークセキュリティおよび暗号技術 サーバー仮想化インフラストラクチャの運用管理 クラウドインフラストラクチャ  サーバーレス アーキテクチャ コンテナー アーキテクチャ   ウェブ/モバイル アプリケーション開発   技術エバンジェリズム パートナー開発・マネージメント プログラムマネージメント 戦略的な技術計画およびマーケティング  </description>
+    </item>
+    
+    <item>
+      <title>連絡先</title>
+      <link>https://shigeyf.netlify.app/ja/contact/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/ja/contact/</guid>
+      <description>メールアドレス shigeyf@outlook.com
+ソーシャルリンク   LinkedIn  Github  Instagram  Twitter  Skype  オフィス 〒102-0074 東京都千代田区九段南1-5-6 りそな九段ビル5F</description>
+    </item>
+    
+    <item>
+      <title>2020年の記事一覧</title>
+      <link>https://shigeyf.netlify.app/ja/posts/2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/ja/posts/2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

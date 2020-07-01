@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive-by-years on To Be Honest</title>
+    <link>https://shigeyf.netlify.app/ja/archive-by-year/</link>
+    <description>Recent content in Archive-by-years on To Be Honest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shigeyf.netlify.app/ja/archive-by-year/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2020年の記事一覧</title>
+      <link>https://shigeyf.netlify.app/ja/posts/2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/ja/posts/2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

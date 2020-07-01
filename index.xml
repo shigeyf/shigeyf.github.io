@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>To Be Honest</title>
+    <link>https://shigeyf.netlify.app/</link>
+    <description>Recent content on To Be Honest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://shigeyf.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archived articles of July 2020</title>
+      <link>https://shigeyf.netlify.app/posts/2020/07/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/posts/2020/07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://shigeyf.netlify.app/about/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/about/</guid>
+      <description>About me Shige Fukushima is an engineer with deep technical, business and evangelism experience in digital media delivery, network security, server virtualization and cloud infrastructure, and system operation/management/automation infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shigeyf.netlify.app/contact/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/contact/</guid>
+      <description>E-mail address shigeyf@outlook.com
+Social Accounts   LinkedIn  Github  Instagram  Twitter  Skype  Work Location Risona Kudan Buidling 5th Floor 1-5-6 Kudan-Minami, Chiyoda-ku, Tokyo 102-0074, Japan</description>
+    </item>
+    
+    <item>
+      <title>Archived articles of Year 2020</title>
+      <link>https://shigeyf.netlify.app/posts/2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shigeyf.netlify.app/posts/2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
